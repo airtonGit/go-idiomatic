@@ -1,4 +1,4 @@
-# Go Notes
+# Idiomatic GO
 _Inspirado e extendido de [ankitpokhrel/go-notes](https://github.com/ankitpokhrel/go-notes) para uso pessoal._
 
 # Index
